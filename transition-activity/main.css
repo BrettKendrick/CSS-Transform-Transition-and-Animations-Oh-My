@@ -25,5 +25,5 @@ button {
 
 button:hover {
   background-color: cornflowerblue;
-  transition: width 2s;
+  transition: 2s;
 }
